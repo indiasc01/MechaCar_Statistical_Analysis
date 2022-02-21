@@ -11,11 +11,10 @@ The variables/coefficients that provided a non-random amount of variance to the 
 With the design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pound per square inch, the current manufaturing data meets this with a combined total of 62.3 psi. Individually, Lot 1 and Lot 2 is in reach with 0.98 and 7.46 psi, while Lot 3 is out of reach with 170.3 psi.
 
 ## T-Tests on Suspension Coils
-Lot 1 
 ![Screen Shot 2022-02-20 at 7 04 06 PM](https://user-images.githubusercontent.com/92649982/154882337-6c9bf499-e84e-4c91-96e9-3ebd95cf43bd.png)
-Lot 2 
+
 ![Screen Shot 2022-02-20 at 7 07 44 PM](https://user-images.githubusercontent.com/92649982/154882671-c003df8d-c875-4bc7-ab75-aa9d54d4b954.png)
-Lot 3 
+
 ![Screen Shot 2022-02-20 at 7 08 17 PM](https://user-images.githubusercontent.com/92649982/154882714-3eded131-a95c-473b-ba38-a1ea613472fd.png)
 
 Lot 2 and 3 has a p-value less than 1, while Lot 1 has a p-value of one and can determine that Lot 1 is different from the population mean.
